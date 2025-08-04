@@ -18,3 +18,4 @@ Uses MySQL for stats storage
 Low-Lag design (optimized tick handling)
 
 Supports custom kits
+![Uploading Screenshot 2025-08-04 133346.png…]()
